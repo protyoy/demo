@@ -4,4 +4,4 @@ This is a sample readme file
 
 Adding more text.
 Extra line.
-On branch updates.
+I hope this doesn't cause a conflict.
